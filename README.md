@@ -10,6 +10,10 @@ Further it helps the admins make informed decision before updating the site to t
 
 
  Download from official WordPress Repo: https://wordpress.org/plugins/plugginsight-maintenance-status/
+ 
+ Official Site: https://projektisle.com/pi-plugins/plugginsight/
+ 
+ Docs: https://projektisle.com/docs/plugginsight/
 
 
 
